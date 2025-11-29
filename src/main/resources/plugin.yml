@@ -1,0 +1,6 @@
+name: HitDelayFix
+main: me.hittrade.hittrade
+version: 1.0
+api-version: 1.8
+author: amirhossein
+description: Fixes double hit trade bug when both players are low Hp
